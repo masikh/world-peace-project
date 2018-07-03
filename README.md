@@ -45,8 +45,8 @@ If everybody in the world tries to contribute to the World Peace Project then wo
 
 - Self referential jokes such as this one here.
 - Induction jokes such as the next one.
-- One Project to rule them all, One Ring to find them,
-One Ring to bring them all and in the darkness bind them.
+- One Project to rule them all, One Project to find them,
+One Project to bring them all and in the brightness bind them.
 - https://www.youtube.com/watch?v=YeMnPyusuBE
 
 
