@@ -8,7 +8,7 @@
 # Social media
 ## Facebook discussions on this project
 
-- [The first post by Maarten Derickx on this project](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmderickx%2Fposts%2F10216582311852102)
+- [The first post by Maarten on this project](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmderickx%2Fposts%2F10216582311852102)
 - [Jonathans Historic vision](https://www.facebook.com/evenzohar?hc_ref=ARTBVThx4omYDRMj4KbCvl-gL75B40H12C1GcSCTYJqgitiucWomItjgBq3Mhr6By48&fref=nf)
 
 ## Trending hastags
