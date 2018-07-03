@@ -1,7 +1,17 @@
 # World Peace Project
 
+> I cannot create world peace but together we can.
+
 [Contribution guidelines for this project](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmderickx%2Fposts%2F10216582311852102)
 [Trello To Do list for this project](https://trello.com/b/ujbZRHMZ/world-peace-project)
+
+# Social media
+## Facebook discussions on this project
+
+- [The first post by Maarten Derickx on this project](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmderickx%2Fposts%2F10216582311852102)
+
+## Trending hastags
+- 
 
 # The Zen of World Peace
 
@@ -27,19 +37,20 @@ approach does not seem to work.
 ### The World Peace hypothesis
 
 ```
-If everybody in the world thinks about peace then world peace is within reach.
+If everybody in the world tries to contribute to the World Peace Project then world peace is actually atainable.
 ```
 
 # The Humor of World Peace
 
 - Self referential jokes such as this one here.
 - Induction jokes such as the next one.
--
+- One Project to rule them all, One Ring to find them,
+One Ring to bring them all and in the darkness bind them
 
 
 # Possible sources of funding
 
-- 
+-
 
 # See also
 
@@ -48,7 +59,13 @@ If everybody in the world thinks about peace then world peace is within reach.
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - 
 
-# Contributors
+# Contributors to World Peace
 
 1. Parzival
+2.
+
+See also the [List of Nobel Peace Prize laureates](https://en.wikipedia.org/wiki/List_of_Nobel_Peace_Prize_laureates) on Wikipedia.
+
+# People contributing to this github project
+1. Maarten Derickx
 2.
