@@ -1,6 +1,7 @@
 # World Peace Project
 
 [Contribution guidelines for this project](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmderickx%2Fposts%2F10216582311852102)
+[Trello To Do list for this project](https://trello.com/b/ujbZRHMZ/world-peace-project)
 
 # The Zen of World Peace
 
