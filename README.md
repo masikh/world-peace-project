@@ -16,7 +16,7 @@
 
 # The Zen of World Peace
 
-[Github repositories](http://github.com) are one honking great idea -- let's do more of those!
+Nuances are one honking great idea -- let's do more of those!
 
 
 
