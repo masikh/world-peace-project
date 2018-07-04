@@ -69,5 +69,5 @@ One Project to bring them all and in the brightness bind them.
 See also the [List of Nobel Peace Prize laureates](https://en.wikipedia.org/wiki/List_of_Nobel_Peace_Prize_laureates) on Wikipedia.
 
 # People contributing to this github project
-1. Maarten Derickx
-2.
+1. [Maarten Derickx](https://www.facebook.com/mderickx)
+2. 
