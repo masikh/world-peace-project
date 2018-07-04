@@ -70,4 +70,5 @@ See also the [List of Nobel Peace Prize laureates](https://en.wikipedia.org/wiki
 
 # People contributing to this github project
 1. [Maarten Derickx](https://www.facebook.com/mderickx)
-2. 
+2. [Jonathan Even-Zohar](https://www.facebook.com/evenzohar)
+3.
