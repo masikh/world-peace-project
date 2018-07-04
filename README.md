@@ -16,7 +16,9 @@
 
 # The Zen of World Peace
 
-- World Peace is Zen
+[Github repositories](http://github.com) are one honking great idea -- let's do more of those!
+
+
 
 # The History of World Peace
 ## 3 July 2018
