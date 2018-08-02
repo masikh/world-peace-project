@@ -40,7 +40,8 @@ approach does not seem to work.
 ### The World Peace hypothesis
 
 ```
-If everybody in the world tries to contribute to the World Peace Project then world peace is actually atainable.
+If everybody in the world tries to contribute to the World Peace Project:
+   world peace is actually atainable.
 ```
 
 # The Humor of World Peace
