@@ -33,6 +33,10 @@ approach does not seem to work.
 --->
 -
 
+# The Language of World Peace
+
+## [Huh?](http://huh.ideophone.org/)
+
 # The Mathematics of World Peace
 
 ## Sketch of a Programme : Pursuing World Peace
