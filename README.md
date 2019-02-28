@@ -77,7 +77,7 @@ See also the [List of Nobel Peace Prize laureates](https://en.wikipedia.org/wiki
 
 # A religious view on World Peace
 
-[The promise of world peace](the_promise_of_world_peace.md)
+[The promise of world peace](docs/the_promise_of_world_peace.md)
 
 # People contributing to this github project
 1. [Maarten Derickx](https://www.facebook.com/mderickx)
