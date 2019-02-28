@@ -1,8 +1,8 @@
-##The Universal House of Justice
+## The Universal House of Justice
 
-#####October 1985
+##### October 1985
 
-###To the Peoples of the World
+### To the Peoples of the World
 
 The Great Peace towards which people of goodwill throughout the centuries have inclined their hearts, of which seers and poets for countless generations have expressed their vision, and for which from age to age the sacred scriptures of mankind have constantly held the promise, is now at long last within the reach of the nations. For the first time in history it is possible for everyone to view the entire planet, with all its myriad diversified peoples, in one perspective. World peace is not only possible but inevitable. It is the next stage in the evolution of this planet—in the words of one great thinker, “the planetization of mankind.”
 
@@ -26,7 +26,7 @@ A candid acknowledgement that prejudice, war and exploitation have been the expr
 
 Whatever suffering and turmoil the years immediately ahead may hold, however dark the immediate circumstances, the Bahá’í community believes that humanity can confront this supreme trial with confidence in its ultimate outcome. Far from signalizing the end of civilization, the convulsive changes towards which humanity is being ever more rapidly impelled will serve to release the “potentialities inherent in the station of man” and reveal “the full measure of his destiny on earth, the innate excellence of his reality.”
 
-####I
+#### I
 
 The endowments which distinguish the human race from all other forms of life are summed up in what is known as the human spirit; the mind is its essential quality. These endowments have enabled humanity to build civilizations and to prosper materially. But such accomplishments alone have never satisfied the human spirit, whose mysterious nature inclines it towards transcendence, a reaching towards an invisible realm, towards the ultimate reality, that unknowable essence of essences called God. The religions brought to mankind by a succession of spiritual luminaries have been the primary link between humanity and that ultimate reality, and have galvanized and refined mankind’s capacity to achieve spiritual success together with social progress.
 
@@ -54,7 +54,7 @@ That materialistic ideals have, in the light of experience, failed to satisfy th
 
 Those who care for the future of the human race may well ponder this advice. “If long-cherished ideals and time-honored institutions, if certain social assumptions and religious formulae have ceased to promote the welfare of the generality of mankind, if they no longer minister to the needs of a continually evolving humanity, let them be swept away and relegated to the limbo of obsolescent and forgotten doctrines. Why should these, in a world subject to the immutable law of change and decay, be exempt from the deterioration that must needs overtake every human institution? For legal standards, political and economic theories are solely designed to safeguard the interests of humanity as a whole, and not humanity to be crucified for the preservation of the integrity of any particular law or doctrine.”
 
-####II
+#### II
 
 Banning nuclear weapons, prohibiting the use of poison gases, or outlawing germ warfare will not remove the root causes of war. However important such practical measures obviously are as elements of the peace process, they are in themselves too superficial to exert enduring influence. Peoples are ingenious enough to invent yet other forms of warfare, and to use food, raw materials, finance, industrial power, ideology, and terrorism to subvert one another in an endless quest for supremacy and dominion. Nor can the present massive dislocation in the affairs of humanity be resolved through the settlement of specific conflicts or disagreements among nations. A genuine universal framework must be adopted.
 
@@ -82,7 +82,7 @@ Two points bear emphasizing in all these issues. One is that the abolition of wa
 
 There are spiritual principles, or what some call human values, by which solutions can be found for every social problem. Any well-intentioned group can in a general sense devise practical solutions to its problems, but good intentions and practical knowledge are usually not enough. The essential merit of spiritual principle is that it not only presents a perspective which harmonizes with that which is immanent in human nature, it also induces an attitude, a dynamic, a will, an aspiration, which facilitate the discovery and implementation of practical measures. Leaders of governments and all in authority would be well served in their efforts to solve problems if they would first seek to identify the principles involved and then be guided by them.
 
-####III
+#### III
 
 The primary question to be resolved is how the present world, with its entrenched pattern of conflict, can change to a world in which harmony and cooperation will prevail.
 
@@ -114,7 +114,7 @@ Will not the United Nations, with the full support of its membership, rise to th
 
 Let men and women, youth and children everywhere recognize the eternal merit of this imperative action for all peoples and lift up their voices in willing assent. Indeed, let it be this generation that inaugurates this glorious stage in the evolution of social life on the planet.
 
-####IV
+#### IV
 
 The source of the optimism we feel is a vision transcending the cessation of war and the creation of agencies of international cooperation. Permanent peace among nations is an essential stage, but not, Bahá’u’lláh asserts, the ultimate goal of the social development of humanity. Beyond the initial armistice forced upon the world by the fear of nuclear holocaust, beyond the political peace reluctantly entered into by suspicious rival nations, beyond pragmatic arrangements for security and coexistence, beyond even the many experiments in cooperation which these steps will make possible lies the crowning goal: the unification of all the peoples of the world in one universal family.
 
@@ -132,5 +132,6 @@ At this writing, the expectant voices of Bahá’ís can be heard despite the pe
 
 In the earnestness of our desire to impart to you the fervor of our hope and the depth of our confidence, we cite the emphatic promise of Bahá’u’lláh: “These fruitless strifes, these ruinous wars shall pass away, and the ‘Most Great Peace’ shall come.”
 
-#####[signed: The Universal House of Justice]
-######This document has been downloaded from the Bahá’í Reference Library. You are free to use its content subject to the terms of use found at [www.bahai.org/legal](http://www.bahai.org/legal)
+###### [signed: The Universal House of Justice]
+###### This document has been downloaded from the Bahá’í Reference Library. You are free to use its content subject to the terms of use found at [www.bahai.org/legal](http://www.bahai.org/legal)
+
