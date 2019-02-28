@@ -75,7 +75,7 @@ One Project to bring them all and in the brightness bind them.
 
 See also the [List of Nobel Peace Prize laureates](https://en.wikipedia.org/wiki/List_of_Ig_Nobel_Prize_winners) on Wikipedia.
 
-# A religious view on World Peace
+# A religious view
 
 [The promise of world peace](docs/the_promise_of_world_peace.md)
 
