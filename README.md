@@ -75,7 +75,13 @@ One Project to bring them all and in the brightness bind them.
 
 See also the [List of Nobel Peace Prize laureates](https://en.wikipedia.org/wiki/List_of_Ig_Nobel_Prize_winners) on Wikipedia.
 
+# A religious view on World Peace
+
+[The promise of world peace](./The Promise of World Peace.md)
+
 # People contributing to this github project
 1. [Maarten Derickx](https://www.facebook.com/mderickx)
 2. [Jonathan Even-Zohar](https://www.facebook.com/evenzohar)
-3.
+3. [Robert Nagtegaal](http://www.facebook.com/masikh)
+
+
